@@ -1,0 +1,7 @@
+sentiment,perf_seg,avg_pnl,win_rate,n
+Fear,Consistent Winner,288.286,0.577,8431
+Fear,Inconsistent,-491.352,0.451,4495
+Fear,Underperformer,-980.71,0.392,13854
+Greed,Consistent Winner,2478.58,0.678,8899
+Greed,Inconsistent,1449.151,0.546,4741
+Greed,Underperformer,-1501.469,0.471,14580
